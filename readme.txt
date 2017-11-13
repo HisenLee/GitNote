@@ -4,6 +4,6 @@
 	git commit -m "wrote a readme file"
 3.git status
 4.git diff readme.txt
-5.git log
+5.git log || git log --pretty=oneline
 6.
 
