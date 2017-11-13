@@ -17,6 +17,8 @@
 12.关联Github:[远程库的名字就是origin，这是Git默认的叫法]
  git remote add origin https://github.com/HisenLee/gitnote.git
 13.推送到远程[把当前分支master推送到远程]
- git push -u origin master
+ git push -u origin master[第一次推送master分支时，加上-u参数]
+ git push origin master
+14.git clone git@github.com:HisenLee/gitnote.git克隆一个本地库
 
 
